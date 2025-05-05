@@ -1,0 +1,45 @@
+2025-04-15 12:57:01 - [32minfo[39m: Creating configuration file...
+2025-04-15 12:57:01 - [32minfo[39m: Adding new script(s) in package.json...
+2025-04-15 12:57:01 - [32minfo[39m: Setup completed
+2025-04-15 13:04:29 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/trupti/Desktop/PlaywrightCucumber/node_modules/.bin/browserstack-node-sdk cucumber-js test
+2025-04-15 13:04:29 - [32minfo[39m: Reading configs from /Users/trupti/Desktop/PlaywrightCucumber/browserstack.yml
+2025-04-15 13:04:29 - [32minfo[39m: SDK run started with id: 431967ea-0a95-4fe8-8fad-68e29df2e904
+2025-04-15 13:04:29 - [31merror[39m: TypeError: Cannot read properties of null (reading 'split')
+    at exports.<computed> [as compareVersions] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/helper.js:1:150682)
+    at new BrowserStackSetup (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/BrowserStackSetup.js:1:7101)
+    at run (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/cucumber-js/command.js:2:8281)
+    at Object.VfsKX (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3354)
+    at captureError (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3516)
+    at Object.roRLO (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:7968)
+    at /Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:8188
+    at _.applyBuilderUpdateUsageAndParse (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7435)
+    at _.runCommand (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:58539)
+2025-04-15 13:13:37 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/trupti/Desktop/PlaywrightCucumber/node_modules/.bin/browserstack-node-sdk cucumber-js test
+2025-04-15 13:13:37 - [32minfo[39m: Reading configs from /Users/trupti/Desktop/PlaywrightCucumber/browserstack.yml
+2025-04-15 13:13:37 - [32minfo[39m: SDK run started with id: d9cf6a93-8e77-4760-83b7-5f0e32151516
+2025-04-15 13:13:37 - [31merror[39m: TypeError: Cannot read properties of null (reading 'split')
+    at exports.<computed> [as compareVersions] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/helper.js:1:150682)
+    at new BrowserStackSetup (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/BrowserStackSetup.js:1:7101)
+    at run (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/cucumber-js/command.js:2:8281)
+    at Object.VfsKX (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3354)
+    at captureError (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3516)
+    at Object.roRLO (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:7968)
+    at /Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:8188
+    at _.applyBuilderUpdateUsageAndParse (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7435)
+    at _.runCommand (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:58539)
+2025-04-15 13:28:34 - [32minfo[39m: Running SDK with args /usr/local/bin/node /Users/trupti/Desktop/PlaywrightCucumber/node_modules/.bin/browserstack-node-sdk cucumber-js test
+2025-04-15 13:28:34 - [32minfo[39m: Reading configs from /Users/trupti/Desktop/PlaywrightCucumber/browserstack.yml
+2025-04-15 13:28:34 - [32minfo[39m: SDK run started with id: 1a859ce8-e1da-4748-936d-e14fe57d4f37
+2025-04-15 13:28:34 - [31merror[39m: TypeError: Cannot read properties of null (reading 'split')
+    at exports.<computed> [as compareVersions] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/helper.js:1:150682)
+    at new BrowserStackSetup (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/helpers/BrowserStackSetup.js:1:7101)
+    at run (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/cucumber-js/command.js:2:8281)
+    at Object.VfsKX (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3354)
+    at captureError (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:3516)
+    at Object.roRLO (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:7968)
+    at /Users/trupti/Desktop/PlaywrightCucumber/node_modules/browserstack-node-sdk/src/bin/runner.js:2:8188
+    at _.applyBuilderUpdateUsageAndParse (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7435)
+    at _.runCommand (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (/Users/trupti/Desktop/PlaywrightCucumber/node_modules/yargs/build/index.cjs:1:58539)

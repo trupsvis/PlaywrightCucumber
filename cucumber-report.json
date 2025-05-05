@@ -1,0 +1,145 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "homepage-functionality;verify-product-web-testing",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Verify Product Web Testing",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1853152709
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User navigates to the Browserstack Homepage",
+            "match": {
+              "location": "tests/steps/homepage.step.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 864465624
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User clicks on Product Menu",
+            "match": {
+              "location": "tests/steps/homepage.step.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 542082375
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "It should show Web Testing Product",
+            "match": {
+              "location": "tests/steps/homepage.step.js:24"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8425874
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 108530749
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "homepage-functionality;verify-pricing-product-lists",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Verify Pricing Product Lists",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 581261000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "User Navigates to Browserstack Homepage",
+            "match": {
+              "location": "tests/steps/homepage.step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3892601040
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "User clicks on Pricing Menu",
+            "match": {
+              "location": "tests/steps/homepage.step.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1632202333
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "It should Display correct lists in left Nav",
+            "match": {
+              "location": "tests/steps/homepage.step.js:37"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 136007084
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 90302874
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "homepage-functionality",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Homepage Functionality",
+    "tags": [],
+    "uri": "tests/features/homepage.feature"
+  }
+]
